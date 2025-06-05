@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Application Tracking System
 
@@ -95,3 +96,6 @@ The task is to design an Applicant Tracking System (ATS) that manages job postin
 
 - [@nikhilmalakar](https://github.com/nikhilmalakar)
 
+=======
+# ats-job-portal
+>>>>>>> 4eb594aac42c900eda24ae3b63d186d62baa116b
